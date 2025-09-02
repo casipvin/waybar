@@ -1,1 +1,1 @@
-# waybar
+Konfiguracja waybar pod Hyprland. 
